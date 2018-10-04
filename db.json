@@ -1,0 +1,133 @@
+{
+  "MemberExpenses": {
+    "MyDocument": [
+      {
+        "ExpenseNo": "PB-18100001",
+        "Description": "Business trip to New Zealand",
+        "Currency": "IDR",
+        "Amount": 15235000,
+        "CreatedOn": "2018-10-01 13:25",
+        "Status": "Completed"
+      },
+      {
+        "ExpenseNo": "PB-18100003",
+        "Description": "Business trip to East Timor",
+        "Currency": "IDR",
+        "Amount": 9560000,
+        "CreatedOn": "2018-10-12 13:25",
+        "Status": "Waiting for Dudi Dudidam"
+      }
+    ],
+    "MyParticipation": [
+      {
+        "ExpenseNo": "PB-18100001",
+        "Description": "Business trip to New Zealand",
+        "Currency": "IDR",
+        "Amount": 15235000,
+        "CreatedOn": "2018-10-01 13:25",
+        "Status": "Completed"
+      },
+      {
+        "ExpenseNo": "PB-18100002",
+        "Description": "Kick Off - Internship Initiative @ XYZ University",
+        "Currency": "IDR",
+        "Amount": 1255000,
+        "CreatedOn": "2018-10-03 13:25",
+        "Status": "Waiting for Accounting"
+      },
+      {
+        "ExpenseNo": "PB-18100003",
+        "Description": "Business trip to East Timor",
+        "Currency": "IDR",
+        "Amount": 9560000,
+        "CreatedOn": "2018-10-12 13:25",
+        "Status": "Waiting for Dudi Dudidam"
+      },
+      {
+        "ExpenseNo": "PB-18100004",
+        "Description": "Lunch meeting for X Bank Project",
+        "Currency": "IDR",
+        "Amount": 5350000,
+        "CreatedOn": "2018-10-14 13:25",
+        "Status": "Waiting for Revision"
+      },
+      {
+        "ExpenseNo": "PB-18100005",
+        "Description": "Personal Expenses due to Department Needs",
+        "Currency": "IDR",
+        "Amount": 125000,
+        "CreatedOn": "2018-10-15 13:25",
+        "Status": "Completed"
+      }
+    ]
+  },
+  "VendorExpenses": {
+    "MyDocument": [
+      {
+        "ExpenseNo": "PV-18100001",
+        "Vendor": "Microsoft",
+        "Description": "Azure Subscription",
+        "Currency": "IDR",
+        "Amount": 15235000,
+        "CreatedOn": "2018-10-01 13:25",
+        "Status": "Completed"
+      },
+      {
+        "ExpenseNo": "PV-18100003",
+        "Vendor": "Gartner",
+        "Description": "Research Paper Subscription",
+        "Currency": "IDR",
+        "Amount": 9560000,
+        "CreatedOn": "2018-10-12 13:25",
+        "Status": "Waiting for Dudi Dudidam"
+      }
+    ],
+    "MyParticipation": [
+      {
+        "ExpenseNo": "PV-18100001",
+        "Vendor": "Microsoft",
+        "Description": "Business trip to New Zealand",
+        "Currency": "IDR",
+        "Amount": 15235000,
+        "CreatedOn": "2018-10-01 13:25",
+        "Status": "Completed"
+      },
+      {
+        "ExpenseNo": "PV-18100002",
+        "Vendor": "Microsoft",
+        "Description": "Kick Off - Internship Initiative @ XYZ University",
+        "Currency": "IDR",
+        "Amount": 1255000,
+        "CreatedOn": "2018-10-03 13:25",
+        "Status": "Waiting for Accounting"
+      },
+      {
+        "ExpenseNo": "PV-18100003",
+        "Vendor": "Microsoft",
+        "Description": "Business trip to East Timor",
+        "Currency": "IDR",
+        "Amount": 9560000,
+        "CreatedOn": "2018-10-12 13:25",
+        "Status": "Waiting for Dudi Dudidam"
+      },
+      {
+        "ExpenseNo": "PV-18100004",
+        "Vendor": "Microsoft",
+        "Description": "Lunch meeting for X Bank Project",
+        "Currency": "IDR",
+        "Amount": 5350000,
+        "CreatedOn": "2018-10-14 13:25",
+        "Status": "Waiting for Revision"
+      },
+      {
+        "ExpenseNo": "PV-18100005",
+        "Vendor": "Microsoft",
+        "Description": "Personal Expenses due to Department Needs",
+        "Currency": "IDR",
+        "Amount": 125000,
+        "CreatedOn": "2018-10-15 13:25",
+        "Status": "Completed"
+      }
+    ]
+  }
+}

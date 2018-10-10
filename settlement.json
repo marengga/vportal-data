@@ -1,0 +1,94 @@
+{
+    "Settlement" :{
+        "MyParticipation":[
+                {
+                    "ExpenseCode": "ST-18055357",	
+                    "CreatedOn" :  "2018-05-3",
+                    "PA Code":	"PA-18045632",	
+                    "Description": "Arsyad Perjalanan luar Kota PM EDC Bank BNI di Kota topoyyo dan pasang kayu Bulan April 2018",
+                    "Currency": "IDR",
+                    "Amount": 670000,
+                    "Status" : "Settlement Done",
+                    "Participants" : [
+                        "Arsyad",
+                        "Ishaq",
+                        "Cecep Pranacahya",
+                        "Aulia Vitasepti"
+                    ]	
+                },
+                {
+                    "ExpenseCode": "ST-18055357",	
+                    "CreatedOn" :  "2018-05-3",
+                    "PA Code":	"PA-18045632",	
+                    "Description": "Arsyad Perjalanan luar Kota PM EDC Bank BNI di Kota topoyyo dan pasang kayu Bulan April 2018",
+                    "Currency": "IDR",
+                    "Amount": 670000,
+                    "Status" : "Settlement Done",
+                    "Participants" : [
+                        "Arsyad",
+                        "Ishaq",
+                        "Cecep Pranacahya",
+                        "Aulia Vitasepti"
+                    ]	
+                },
+                {
+                    "ExpenseCode": "ST-18055357",	
+                    "CreatedOn" :  "2018-05-3",
+                    "PA Code":	"PA-18045632",	
+                    "Description": "Arsyad Perjalanan luar Kota PM EDC Bank BNI di Kota topoyyo dan pasang kayu Bulan April 2018",
+                    "Currency": "IDR",
+                    "Amount": 670000,
+                    "Status" : "Settlement Done",
+                    "Participants" : [
+                        "Arsyad",
+                        "Ishaq",
+                        "Cecep Pranacahya",
+                        "Aulia Vitasepti"
+                    ]	
+                }
+        ],
+        "MyDocument" : [
+            {
+                "ExpenseCode": "ST-18055357",	
+                "CreatedOn" :  "2018-05-3",
+                "PA Code":	"PA-18045632",	
+                "Description": "Arsyad Perjalanan luar Kota PM EDC Bank BNI di Kota topoyyo dan pasang kayu Bulan April 2018",
+                "Currency": "IDR",
+                "Amount": 670000,
+                "Status" : "Settlement Done",
+                "Participants" : [
+                    "Arsyad",
+                    "Ishaq",
+                    "Cecep Pranacahya",
+                    "Aulia Vitasepti"
+                ]	
+            },
+            {
+               "ExpenseCode": "ST-18108036",
+               "CreatedOn" : "2018-10-10 11:34",
+                   "PA Code":"PA-18098258",
+                   "Description":	"SP Madiun-OPEX Oktober 2018",
+                   "Currency":	"IDR",
+                   "Amount": 582250,
+                   "Status": "Waiting for Suparman",
+                   "Participants":[
+                       "Taufan Ridhana"
+                   ]
+
+
+            },
+            {
+                "ExpenseCode":"ST-18108035",
+                "CreatedOn":"",
+                "PA Code":"PA-18098214",
+                "Description":"PM EDC LUAR KOTA BULAN SEPTEMBER 2018",
+                "Currency":"IDR",
+                "Amount":2750000,
+                "Status":"Waiting for Sudirman",
+                "Participants":[
+                    "Ade Moehammad Fajrin"
+                ]
+            }
+        ]
+    }    
+}
